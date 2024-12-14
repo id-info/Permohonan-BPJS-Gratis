@@ -212,6 +212,7 @@ h4 {
 
 /* Footer Styles */
 footer {
+  position: relative;
   background-color: #0048ff; /* Warna latar belakang footer */
   padding: 20px; /* Ruang di dalam footer */
   text-align: center; /* Mengatur teks agar berada di tengah */
