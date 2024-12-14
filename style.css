@@ -490,7 +490,7 @@ input[type="tel"] {
 }
 
 .list-box {
-  max-height: 146px;
+  max-height: 219px;
   overflow-y: auto;
   scrollbar-width: none; /* Untuk Firefox */
   -ms-overflow-style: none; /* Untuk Internet Explorer dan Edge */
